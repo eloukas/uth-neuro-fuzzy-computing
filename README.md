@@ -14,7 +14,7 @@
 ### Course Structure:
 The course consists of 3 homework problem sets, 1 programming project and 1 final exam.
 
-# Note: The project will be uploaded after the professor completes their review.
+# Note: Project is uploaded in a separate repository.
 
 ### Instructor:
 - Dimitrios Katsaros
