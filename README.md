@@ -14,7 +14,7 @@
 ### Course Structure:
 The course consists of 3 homework problem sets, 1 programming project and 1 final exam.
 
-# Note: Project is uploaded in a separate repository.
+# Note: Project is uploaded in a [separate repository](https://github.com/eloukas/scientific-success-prediction).
 
 ### Instructor:
 - Dimitrios Katsaros
