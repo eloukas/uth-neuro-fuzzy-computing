@@ -17,11 +17,11 @@ The course consists of 3 homework problem sets, 1 programming project and 1 fina
 # Note: Project is uploaded in a [separate repository](https://github.com/eloukas/scientific-success-prediction).
 
 ### Instructor:
-- Dimitrios Katsaros
+- [Dimitrios Katsaros](https://faculty.e-ce.uth.gr/dkatsar/)
 
 ## Authors:
-- Eleftherios P. Loukas
-- Panagiotis Nikitakis
+* [Eleftherios P. Loukas](https://github.com/eloukas) - eleftheriosloukas@gmail.com
+* [Panagiotis Nikitakis](https://github.com/pnikitakis) - pnikitakis@uth.gr
 
 
 
